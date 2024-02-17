@@ -1,8 +1,15 @@
 <h2>👋 Hello!</h2>
-Junior Front-End Developer<br><a href="https://emirhankayabas.com.tr/">https://emirhankayabas.com.tr/</a>
+<ul>
+  <li>Junior Front-End Developer</li>
+  <li>🌱 I’m currently learning React and Node.js</li>
+  <li>📫 Contact me: <a href="mailto:emirhankayabas17@gmail.com">emirhankayabas17@gmail.com</a></li>
+  <li><a href="https://emirhankayabas.com.tr/">https://emirhankayabas.com.tr/</a></li>
+</ul>
 
 <h2></> Project</h2>
-<a href="https://emirhankayabas.com.tr/demo/">MovieJump</a>
+<ul>
+  <li><a href="https://emirhankayabas.com.tr/demo/">MovieJump</a></li>
+</ul>
 
 <h2>🌐 Social Media</h2>
 
