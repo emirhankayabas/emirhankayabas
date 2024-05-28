@@ -1,6 +1,6 @@
 <h2>👋 Hello!</h2>
 <ul>
-  <li>Junior Front-End Developer</li>
+  <li>Front-End Developer</li>
   <li>🌱 I’m currently learning React and Node.js</li>
   <li>📫 Contact me: <a href="mailto:emirhankayabas17@gmail.com">emirhankayabas17@gmail.com</a></li>
   <li><a href="https://emirhankayabas.com.tr/">https://emirhankayabas.com.tr/</a></li>
